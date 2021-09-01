@@ -1,0 +1,27 @@
+﻿  Application.cpp
+C:\Users\Miguel\Desktop\CG\ComputerGraphics\Assignment3\OpenGLCherno\src\vendor\Models\Sphere.h(391,1): warning C4305: 'initializing': truncation from 'double' to 'const float'
+C:\Users\Miguel\Desktop\CG\ComputerGraphics\Assignment3\OpenGLCherno\src\vendor\Models\Sphere.h(833,1): warning C4305: 'initializing': truncation from 'double' to 'const float'
+C:\Users\Miguel\Desktop\CG\ComputerGraphics\Assignment3\OpenGLCherno\src\vendor\Models\Sphere.h(1218,1): warning C4305: 'initializing': truncation from 'double' to 'const float'
+C:\Users\Miguel\Desktop\CG\ComputerGraphics\Assignment3\OpenGLCherno\src\Application.cpp(352,25): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Miguel\Desktop\CG\ComputerGraphics\Assignment3\OpenGLCherno\src\Application.cpp(523,12): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Miguel\Desktop\CG\ComputerGraphics\Assignment3\OpenGLCherno\src\Application.cpp(524,12): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Miguel\Desktop\CG\ComputerGraphics\Assignment3\OpenGLCherno\src\Application.cpp(528,19): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Miguel\Desktop\CG\ComputerGraphics\Assignment3\OpenGLCherno\src\Application.cpp(529,19): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Miguel\Desktop\CG\ComputerGraphics\Assignment3\OpenGLCherno\src\Application.cpp(531,11): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Miguel\Desktop\CG\ComputerGraphics\Assignment3\OpenGLCherno\src\Application.cpp(532,11): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+  IndexBuffer.cpp
+  Renderer.cpp
+  Shader.cpp
+  Texture.cpp
+  stb_image.cpp
+  VertexArray.cpp
+C:\Users\Miguel\Desktop\CG\ComputerGraphics\Assignment3\OpenGLCherno\src\VertexArray.cpp(39,1): warning C4312: 'type cast': conversion from 'unsigned int' to 'const void *' of greater size
+  VertexBuffer.cpp
+LINK : warning LNK4098: defaultlib 'LIBCMT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Generating code
+  661 of 671 functions (98.5%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+glew32s.lib(glew.obj) : warning LNK4099: PDB 'vc120.pdb' was not found with 'glew32s.lib(glew.obj)' or at 'C:\Users\Miguel\Desktop\CG\ComputerGraphics\Assignment3\OpenGLCherno\x64\Release\vc120.pdb'; linking object as if no debug info
+  OpenGLCherno.vcxproj -> C:\Users\Miguel\Desktop\CG\ComputerGraphics\Assignment3\OpenGLCherno\x64\Release\OpenGLCherno.exe

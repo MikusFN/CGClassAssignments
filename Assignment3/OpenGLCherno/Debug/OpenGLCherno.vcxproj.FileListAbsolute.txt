@@ -1,0 +1,2 @@
+C:\Users\Miguel\Desktop\CG\OpenGLPratice\OpenGLCherno\Debug\OpenGLCherno.exe
+C:\Users\Miguel\Desktop\CG\OpenGLPratice\OpenGLCherno\Debug\OpenGLCherno.pdb
